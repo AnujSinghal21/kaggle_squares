@@ -1,0 +1,6 @@
+build/
+submissions/*.csv
+books/
+analysis/out/
+.ipynb_checkpoints/
+work/
